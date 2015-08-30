@@ -1,0 +1,11 @@
+{
+    "name": "Material Expo",
+    "description": "Material Expo",
+    "version": "0.1",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts":["background.js"]
+        }
+    }
+}
