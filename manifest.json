@@ -7,5 +7,6 @@
         "background": {
             "scripts":["background.js"]
         }
-    }
+    },
+    "icons": { "16": "material-16.png", "48": "material-48.png", "128": "material-128.png" }
 }
